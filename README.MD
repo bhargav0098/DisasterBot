@@ -43,7 +43,7 @@ pip install streamlit google-genai
 ### Running the Application
 
 ```bash
-streamlit run main.py
+streamlit run user.py
 ```
 
 ### Environment Variables
@@ -77,3 +77,4 @@ This project is open source and available for educational and disaster awareness
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests to improve the bot's educational value.
+
