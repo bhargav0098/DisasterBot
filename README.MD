@@ -1,5 +1,5 @@
 # 🛟 Disaster Response & Relief Explainer Bot
-**[🔗 View Live Demo](https://github.com/bhargav0098/DisasterBot)**
+**[🔗 View Live Demo](http://localhost:8501/)**
 ## Summary
 
 **Disaster Response & Relief Explainer Bot** is a responsible Gen-AI application designed to help citizens understand disaster management processes in simple, clear language.
@@ -77,5 +77,6 @@ This project is open source and available for educational and disaster awareness
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests to improve the bot's educational value.
+
 
 
